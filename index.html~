@@ -1,1 +1,5 @@
-line 1
+<<<<<<< HEAD
+line 1st
+=======
+line first
+>>>>>>> hogehoge
